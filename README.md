@@ -1,23 +1,53 @@
+Aviation Business Venture
+![image](https://github.com/user-attachments/assets/df7993c9-481b-45fa-890f-a74188b2be62)
 
-## Project Overview
-https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/uploads/2022/06/falcon6x.jpg?h=cc766518&itok=dGZ0AUIW
-The project aims to analyze aviation accident data to provide actionable insights to guide the company in selecting the lowest-risk aircraft for its new aviation division. The project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. We will use data-driven analysis to identify aircraft models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
-
+With the interest that has emerged recently from our company to expand and diversify its portfolio particularly in the Aviation Industry. I Stephen Mulingwa as the senior Data anlyst of the Company analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation incidents from 1962 to 2023. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
 
 ### Business Problem
-
-Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+The objectives for this project aviation business venture are:
+* To assess Aviation Accident Risk: I will analyze historical aviation accident data to identify aircraft models with the lowest incidence of accidents or incidents, ensuring the selection of the safest options for the company’s venture.
+* To minimize Operational Risk: I will provide actionable insights that will guide the company in minimizing operational risks as it expands into the aviation industry by focusing on safety metrics.
+* I will offer Strategic Decisions: Deliver data-driven recommendations that will assist the head of the aviation division in making informed decisions regarding aircraft purchases for both commercial and private operations.
 
 ## Business Understanding
-The company is expanding into the aviation industry and aims to make informed decisions on purchasing and operating aircraft for commercial and private use. A thorough analysis of aviation accident data is needed to understand which aircraft models or types carry the least risk. This analysis will help the company minimize operational risks, prioritize safety, and make strategic investments in low-risk aircraft, ensuring a smooth and secure entry into the aviation sector. With a focus on reducing the likelihood of accidents, the company seeks insights that will guide its choices and protect its long-term financial interests.
+The company is expanding into the aviation industry and aims to make informed decisions on purchasing and operating aircraft for commercial and private use. The primary stakeholder is the Head of the Aviation Division, who is responsible for overseeing the selection and operation of aircraft for commercial and private ventures. The key business questions to address in this project are:
 
-The main objective of this project is to identify the lowest-risk aircraft by analyzing historical aviation accident data. The key question driving the analysis is: "Which aircraft models or types are associated with the least risk of accidents or incidents?" This will lead to actionable insights that the head of the new aviation division can use when deciding on aircraft purchases. By leveraging data-driven recommendations, the company will be better positioned to make safer, more cost-effective decisions in its new aviation venture.
+* Which aircraft models have the lowest risk of accidents or incidents?
+This question focuses on identifying the safest aircraft based on historical data, ensuring that the company invests in models with proven safety records.
 
-## Project Goal
-The primary goal of this project is to analyze historical aviation accident data to identify the aircraft models or types that pose the least operational risk. By doing so, the company will be equipped with data-driven insights that can guide its decisions on which aircraft to purchase and operate for its new aviation business. This analysis aims to provide clear, actionable recommendations that prioritize safety and risk reduction, ensuring that the company’s expansion into aviation is both strategic and secure. Ultimately, the project seeks to align the company’s investment with the safest, most reliable aircraft options available.
+* What are the major factors contributing to aviation accidents, and how can the company mitigate these risks?
+By understanding the common causes of accidents, the company can make informed choices about aircraft maintenance, pilot training, and operational protocols.
 
-## Data Understanding
-In the Data Understanding phase, the focus is on gathering, exploring, and familiarizing ourselves with the aviation accident dataset. This step involves identifying the structure, quality, and key attributes of the data that will be used to assess aircraft safety. The dataset may contain variables such as aircraft model, type of incident, severity, date of occurrence, and contributing factors. A thorough initial review of the data helps to identify missing values, inconsistencies, or potential biases, ensuring that the data is reliable and suitable for analysis. By conducting exploratory data analysis (EDA), we can uncover patterns and trends, such as which aircraft models have been involved in the fewest or least severe accidents.
+* How does the frequency of accidents differ across different aircraft types, manufacturers, or operational conditions?
+This question seeks to uncover patterns and trends in the data, allowing the company to select aircraft that are best suited for their intended use while minimizing risk.
 
-Additionally, this phase helps to assess whether the available data sufficiently answers the key research question: which aircraft models have the lowest risk of accidents? It also allows us to determine if supplementary data sources, such as aircraft maintenance records or operational history, may be needed to enhance the analysis. Understanding the relationships between variables will provide the foundation for more advanced modeling and insights in later stages. The quality and completeness of the data at this stage are crucial for ensuring that the final recommendations are based on accurate and meaningful insights.
+The answers to these key questions will enable the company make data-driven decisions in the new aviation venture, reducing risk and ensuring safe and strategic aircraft purchases.
 
+
+## Data Understanding and Analysis
+### Source of data
+The dataset used for this analysis comes from the National Transportation Safety Board (NTSB) and contains information on aviation accidents and selected incidents involving civil aviation in the United States and international waters. The data spans from 1948 to 2022 and includes various details related to accident occurrences, purpose of the flight, aircraft involved, and weather conditions at the time of the incidents.
+
+### Description of Data
+The dataset contains 90,348 records with 31 columns, covering various aspects of aviation accidents, including:
+* Event Date: The date when the aviation accident or incident occurred.
+* Location: Geographic location where the incident took place.
+* Aircraft Make and Model: The manufacturer and specific model of the aircraft involved in the accident.
+* Aircraft Category: The type or category of the aircraft (e.g., commercial, private).
+* Aircraft Damage: Details about the severity of the aircraft damage (e.g., Destroyed, Substantial, Minor, Unknown).
+* Injury Severity: The level of injuries sustained (e.g., fatal, non-fatal, incident).
+* Weather Conditions: Information on the weather conditions at the time of the incident.
+* Probable Cause: The identified or suspected cause(s) of the accident.
+* Purpose of flight (e.g., personal, instructional, business)
+
+![image](https://github.com/user-attachments/assets/022b4cb5-d40b-4fa2-a47e-e8035440c26e)
+`From the above graph it is evident that Personal, Instructional, and Unknown are the leading causes of accidents.
+Thus, due to this, the company will need to restrict offering airplanes for this reasons and go for low use of flights with minimal accidents.`
+
+![image](https://github.com/user-attachments/assets/2073411f-3f28-42c7-8e65-ea2ccefa133d)
+`The time series plot above shows that the number of accidents has been declining over the years. 
+Thus, air travel is becoming a safe means of transport over time.`
+
+![image](https://github.com/user-attachments/assets/4fa87e63-a778-45aa-9318-646fb2bcffd4)
+`From the time series plot above, the number of injured and uninjured airplane passengers has declined over the years.
+Thus, the aviation venture is a good venture for the business.`
