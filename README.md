@@ -1,7 +1,7 @@
 Aviation Business Venture
 ![image](https://github.com/user-attachments/assets/df7993c9-481b-45fa-890f-a74188b2be62)
 
-With the interest that has emerged recently from our company to expand to diversify its portfolio particularly in the Aviation Industry. I Stephen Mulingwa as the senior Data anlyst of the Company analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation incidents from 1962 to 2023. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
+With the interest that has emerged recently from our company to expand and diversify its portfolio particularly in the Aviation Industry. I Stephen Mulingwa as the senior Data anlyst of the Company analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation incidents from 1962 to 2023. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
 
 ### Business Problem
 The objectives for this project aviation business venture are:
@@ -40,6 +40,14 @@ The dataset contains 90,348 records with 31 columns, covering various aspects of
 * Probable Cause: The identified or suspected cause(s) of the accident.
 * Purpose of flight (e.g., personal, instructional, business)
 
+![image](https://github.com/user-attachments/assets/022b4cb5-d40b-4fa2-a47e-e8035440c26e)
+`From the above graph it is evident that Personal, Instructional, and Unknown are the leading causes of accidents.
+Thus, due to this, the company will need to restrict offering airplanes for this reasons and go for low use of flights with minimal accidents.`
 
+![image](https://github.com/user-attachments/assets/2073411f-3f28-42c7-8e65-ea2ccefa133d)
+`The time series plot above shows that the number of accidents has been declining over the years. 
+Thus, air travel is becoming a safe means of transport over time.`
 
-
+![image](https://github.com/user-attachments/assets/4fa87e63-a778-45aa-9318-646fb2bcffd4)
+`From the time series plot above, the number of injured and uninjured airplane passengers has declined over the years.
+Thus, the aviation venture is a good venture for the business.`
