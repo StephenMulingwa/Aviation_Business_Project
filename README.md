@@ -1,4 +1,4 @@
-Aviation Business Venture
+# Aviation Business Venture
 ![image](https://github.com/user-attachments/assets/df7993c9-481b-45fa-890f-a74188b2be62)
 
 With the interest that has emerged recently from our company to expand and diversify its portfolio particularly in the Aviation Industry. I, Stephen Mulingwa, as the senior Data analyst of the Company, analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation incidents from 1948 to 2022. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
@@ -52,7 +52,7 @@ These are the aircraft models with the highest accident rates. The company shoul
 ![image](https://github.com/user-attachments/assets/022b4cb5-d40b-4fa2-a47e-e8035440c26e)
 
 `The above graph shows that Personal, Instructional, and Unknown are the leading causes of accidents.
-Thus, the company will need to restrict its airplane offering for these reasons and opt for low-use flights with minimal accidents.
+Thus, the company must restrict its airplane offering and opt for low-use flights with minimal accidents.
 
 ### Time-series Plots
 ![image](https://github.com/user-attachments/assets/2073411f-3f28-42c7-8e65-ea2ccefa133d)
