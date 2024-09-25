@@ -1,13 +1,15 @@
-
-## Project Overview
+Aviation Business Venture
 ![image](https://github.com/user-attachments/assets/df7993c9-481b-45fa-890f-a74188b2be62)
 
-The project aims to analyze aviation accident data to provide actionable insights to guide the company in selecting the lowest-risk aircraft for its new aviation division. The project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. We will use data-driven analysis to identify aircraft models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
-
+With the interest that has emerged recently from our company to expand to diversify its portfolio particularly in the Aviation Industry. I Stephen Mulingwa as the senior Data anlyst of the Company analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation incidents from 1962 to 2023. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
 
 ### Business Problem
+The objectives for this project aviation business venture are:
+* Assess Aviation Accident Risk: Analyze historical aviation accident data to identify aircraft models with the lowest incidence of accidents or incidents, ensuring the selection of the safest options for the company’s venture.
 
-Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+Minimize Operational Risk: Provide actionable insights that will guide the company in minimizing operational risks as it expands into the aviation industry by focusing on safety metrics.
+
+Support Strategic Decision-Making: Deliver data-driven recommendations that will assist the head of the aviation division in making informed decisions regarding aircraft purchases for both commercial and private operations.
 
 ## Business Understanding
 The company is expanding into the aviation industry and aims to make informed decisions on purchasing and operating aircraft for commercial and private use. A thorough analysis of aviation accident data is needed to understand which aircraft models or types carry the least risk. This analysis will help the company minimize operational risks, prioritize safety, and make strategic investments in low-risk aircraft, ensuring a smooth and secure entry into the aviation sector. With a focus on reducing the likelihood of accidents, the company seeks insights that will guide its choices and protect its long-term financial interests.
