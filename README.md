@@ -1,12 +1,8 @@
 
 ## Project Overview
+https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/uploads/2022/06/falcon6x.jpg?h=cc766518&itok=dGZ0AUIW
+The project aims to analyze aviation accident data to provide actionable insights to guide the company in selecting the lowest-risk aircraft for its new aviation division. The project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. We will use data-driven analysis to identify aircraft models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
 
-
-
-
-
-
-The project aims to analyze aviation accident data to provide actionable insights that will guide the company in selecting the lowest-risk aircraft for its new aviation division. By assessing aircraft safety through historical accident trends, the project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry. Using data-driven analysis, we will identify aircraft models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
 
 ### Business Problem
 
