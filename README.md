@@ -1,7 +1,7 @@
 # Aviation Business Venture
 ![image](https://github.com/user-attachments/assets/df7993c9-481b-45fa-890f-a74188b2be62)
 
-With the interest that has emerged recently from our company to expand and diversify its portfolio particularly in the Aviation Industry. I, Stephen Mulingwa, as the senior Data analyst of the Company, analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation incidents from 1948 to 2022. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
+With the interest that has emerged recently from our company to expand and diversify its portfolio particularly in the Aviation Industry. I, Stephen Mulingwa, as the senior Data analyst of the Company, analyzed the aviation accident data from the National Transportation Safety Board, covering civil aviation accidents from 1948 to 2022. Hence, through this project I will provide you with the actionable insights to guide the company in selecting the lowest-risk aircrafts for commercial and private enterprises. This project seeks to minimize operational risks and enhance decision-making in the company’s venture into the aviation industry by assessing aircraft safety through historical accident trends. I have used data-driven analysis to identify aircraft makes and models with the least incidence of accidents or incidents, ultimately delivering key recommendations to support safe and strategic aircraft purchases.
 
 ### Objectives
 The objectives for this project aviation business venture are:
@@ -40,26 +40,26 @@ The dataset contains 90,348 records with 31 columns, covering various aspects of
 * Probable Cause: The identified or suspected cause(s) of the accident.
 * Purpose of flight (e.g., personal, instructional, business)
 
-### Make and Model
+### Table Plot
 ![image](https://github.com/user-attachments/assets/7fbdebf5-1289-4d70-9e9f-dd270b0980c7)
 
-`From the table plot Looking at the make and Models Cessna and Piper Makes have high frequencies of accidents this could be due to malfunctions of the airplanes. Hence the Company should avoid purchasing this Makes and go for makes and Models with low accident levels, such as Air Tractor, Bell, and Grumman American.`
+`From the table plot looking at the make and Models, Cessna and Piper Makes have high frequencies of accidents which could be due to malfunctions of the airplanes. Thus, as the Company purchases new airplanes it should avoid purchasing this Makes and go for makes and Models with low accident levels, such as Air Tractor, Bell, and Grumman American.`
 
-### Purpose of Flight against Number of Accidents
+### Bar Graph
 ![image](https://github.com/user-attachments/assets/022b4cb5-d40b-4fa2-a47e-e8035440c26e)
 
 `The above bar graph shows that Personal, Instructional, and Unknown are the leading causes of accidents.
 Thus, the company must restrict its airplane offering and opt for low-use flights with minimal accidents.`
 
-### Time-series Plots
+### Time-series Plot
 ![image](https://github.com/user-attachments/assets/2073411f-3f28-42c7-8e65-ea2ccefa133d)
 
-`The time series plot above shows that accidents have declined over the years. 
-Thus, air travel is becoming a safe means of transport over time.`
+`As seen in the time series graph the number of accidents has been on the decline over the years hence air travel is becoming more and more safe means of transport and good venture for our company.`
 
+### Bubble Plot
 ![image](https://github.com/user-attachments/assets/45291ae7-95f7-452b-9885-9778ab15ad52)
 
-`From the bubble plot, most of the accidents leading to fatalities occur during takeoff, landing, cruise, maneuvering, and approach. This will necessitate continuous training of pilots to ensure the safety of the airplanes, thus avoiding accidents.`
+`From the bubble plot most of accidents leading to fatalities occur during takeoff, landing, cruise, maneuvering, and approach. Hence, this necessitate continuous training of our company’s pilots to ensure safety of the airplanes thus avoiding accidents.`
 
 ## Conclusion and Recommendation
 
