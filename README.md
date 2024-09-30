@@ -41,7 +41,7 @@ The dataset contains 90,348 records with 31 columns, covering various aspects of
 * Purpose of flight (e.g., personal, instructional, business)
 
 ### Table Plot
-![image](https://github.com/user-attachments/assets/7fbdebf5-1289-4d70-9e9f-dd270b0980c7)
+![Notorious Makes and Models based on Accidents (1)](https://github.com/user-attachments/assets/6300b24e-12cd-4e9d-879d-3b5bdb35bd4b)
 
 `From the table plot looking at the make and Models, Cessna and Piper Makes have high frequencies of accidents which could be due to malfunctions of the airplanes. Thus, as the Company purchases new airplanes it should avoid purchasing this Makes and go for makes and Models with low accident levels, such as Air Tractor, Bell, and Grumman American.`
 
@@ -61,9 +61,9 @@ Thus, the company must restrict its airplane offering and opt for low-use flight
 
 `From the bubble plot most of accidents leading to fatalities occur during takeoff, landing, cruise, maneuvering, and approach. Hence, this necessitate continuous training of our company’s pilots to ensure safety of the airplanes thus avoiding accidents.`
 
-## Conclusion and Recommendation
+## Summary
 
-In conclusion, the findings reveal that accidents leading to fatalities are most frequent during critical flight phases, such as takeoff, landing, and approach. Continuous and enhanced pilot training will be essential to mitigate these risks. Furthermore, aircraft involved in personal and instructional flights are more prone to accidents, suggesting the company should prioritize business, ferry, and aerial observation flights, which have lower accident rates.
+In summary, the findings reveal that accidents leading to fatalities are most frequent during critical flight phases, such as takeoff, landing, and approach. Continuous and enhanced pilot training will be essential to mitigate these risks. Furthermore, aircraft involved in personal and instructional flights are more prone to accidents, suggesting the company should prioritize business, ferry, and aerial observation flights, which have lower accident rates.
 
 The analysis also highlighted specific aircraft makes and models, such as Cessna and Piper, which have higher accident frequencies, possibly due to mechanical issues. The company should avoid these makes and instead focus on safer alternatives like Air Tractor, Bell, and Grumman American.
 
@@ -71,6 +71,6 @@ Lastly, the trend of declining accidents over the years and the safe nature of a
 
 ## References
 
-Tableau Visualizations: [Tableau](https://public.tableau.com/app/profile/stephen.mulingwa8804/viz/ProjectVisualization_17272871603840/AviationVisualization?publish=yes)
+Tableau Visualizations: [Tableau](https://public.tableau.com/app/profile/stephen.mulingwa8804/viz/AviationDataVisualization_17276866896030/AviationDataVisualization?publish=yes)
 
-Slides Presentation Link: [Presentation.pdf](https://docs.google.com/presentation/d/1p9Vrm6vmiBRkkRiR2_G9xcrYpl8ryqaYFOiQaIxSpq4/edit#slide=id.g3058c3f1ac4_0_37)
+Slides Presentation Link: [Presentation.pdf](https://docs.google.com/presentation/d/1p9Vrm6vmiBRkkRiR2_G9xcrYpl8ryqaYFOiQaIxSpq4/edit#slide=id.g1e122c60b65_0_13)
